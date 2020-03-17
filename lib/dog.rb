@@ -7,7 +7,6 @@ class Dog
     @this_dogs_name
   end
   
-  class Dog 
   def breed=(dog_breed)
     @this_dogs_breed = dog_breed
   end
@@ -15,5 +14,4 @@ class Dog
   def breed
     @this_dogs_breed
   end
-  
 end
